@@ -1,37 +1,5 @@
 <h1 align="center">Selamat datang di KelasKita! 👋</h1>
 
-![Landing Page](https://github.com/zuramai/kelaskita/blob/master/public/assets/images/screenshot.jpg?raw=true)
-
-
-
-[![](https://img.shields.io/github/issues/zuramai/kelaskita?style=flat-square)](https://img.shields.io/github/issues/zuramai/kelaskita?style=flat-square) ![](https://img.shields.io/github/stars/zuramai/kelaskita?style=flat-square)
-![](https://img.shields.io/github/forks/zuramai/kelaskita?style=flat-square) ![](https://img.shields.io/github/license/zuramai/kelaskita?style=flat-square) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=flat-square)](https://saythanks.io/to/zaidanline67%40gmail.com) [![HitCount](http://hits.dwyl.com/zuramai/https://github.com/zuramai/kelaskita.svg)](http://hits.dwyl.com/zuramai/https://github.com/zuramai/kelaskita)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square)](https://code.visualstudio.com/) [![GitHub followers](https://img.shields.io/github/followers/zuramai.svg?style=flat-square&label=Follow&maxAge=2592000)](https://github.com/zuramai?tab=followers)
-
-<p align="center">
-	
-<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/uses-html.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
-
-</p>
-
-
-<table>
-	<tr>
-		<th>Sponsored by</th>
-	</tr>
-	<tr>
-		<td>
-		<p align="center">
-			<a href="https://lokal.so/?ref=zuramai">
-				<img src="https://github.com/zuramai/zuramai/blob/master/sponsors/lokalso.png?raw=true"  width="50%">
-			</a>
-		</p>	
-		</td>
-	</tr>
-</table>
-
-### 🤔 Apa itu KelasKita?
-Web Management Kelas yang dibuat oleh <a href="https://github.com/zuramai"> Ahmad Saugi </a>. **KelasKita adalah Website untuk kelas agar para siswa dapat melihat jadwal pelajaran, jadwal piket, artikel, dan informasi lainnya melalui website dengan mudah.**
-
 ### 🤨 Fitur apa saja yang tersedia di KelasKita?
 - Autentikasi Admin
 - List Siswa & CRUD
