@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Redirect all requests to the public folder
+    RewriteRule ^(.*)$ public/$1 [L]
+
+    # Handle requests for existing files and directories directly
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Redirect to the public/index.php file
+    RewriteRule ^ public/index.php [L]
+
+</IfModule>
+
+# Deny directory listing
+Options -Indexes
+
+# If you are using the MultiViews option, you need to turn it off:
+Options -MultiViews
+
+# Follow symbolic links
+Options +FollowSymLinks
