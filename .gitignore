@@ -2,10 +2,10 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=phpunit,node,laravel
 
 ### Laravel ###
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+#/vendor/
+#node_modules/
+#npm-debug.log
+#yarn-error.log
 
 # Laravel 4 specific
 bootstrap/compiled.php
